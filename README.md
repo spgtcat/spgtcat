@@ -8,7 +8,7 @@
 │    ███████║██║     ╚██████╔╝   ██║   ╚██████╗██║  ██║   ██║     │
 │    ╚══════╝╚═╝      ╚═════╝    ╚═╝    ╚═════╝╚═╝  ╚═╝   ╚═╝    │
 │                                                                  │
-│    [ SOC Analyst in Training ]                                   │
+│    [ MBO 4 ICT Student · Cybersecurity ]                         │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
@@ -20,9 +20,9 @@
 ```bash
 $ whoami
 ```
-> I break things, then figure out how to detect it.  
-> Building labs, simulating attacks, reading logs — that's my day.  
-> Goal: **SOC Tier 1 Analyst**.
+> First year ICT student (MBO 4) getting into cybersecurity.  
+> I don't wait for school to teach me — I build projects to learn by doing.  
+> This is just the start.
 
 ---
 
@@ -45,10 +45,6 @@ project      = https://github.com/spgtcat/soc-lab
 description  = Watching network traffic, finding the weird stuff
 tools        = Wireshark, tcpdump
 project      = https://github.com/spgtcat/wazuh-siem
-
-[incident-response]
-description  = Analyzing what happened, writing it up, learning from it
-project      = https://github.com/spgtcat/soc-lab
 
 [scripting]
 description  = Automating the boring stuff so I can focus on the fun stuff
@@ -92,11 +88,10 @@ $ ls ~/toolkit/
 ---
 
 ```bash
-$ cat ~/certs.txt
+$ cat ~/learning.txt
 ```
 
-🔒 **CompTIA Security+**  
-🔒 **CDSA** — Certified Defensive Security Analyst
+📖 **Google Cybersecurity Certificate** — currently working on this
 
 ---
 
@@ -108,7 +103,7 @@ $ ls ~/projects/
 <summary>📂 <b>wazuh-siem/</b> — SIEM environment built from zero</summary>
 <br>
 
-I built a full SIEM environment from nothing. Set up the Wazuh indexer, created log pipelines, and made dashboards so you can actually see what's happening in a network. Everything is documented step by step so anyone can follow along.
+My first real project. I built a full SIEM environment from nothing. Set up the Wazuh indexer, created log pipelines, and made dashboards so you can actually see what's happening in a network. Everything is documented step by step.
 
 🔗 **[Open project →](https://github.com/spgtcat/wazuh-siem)**
 
@@ -118,7 +113,7 @@ I built a full SIEM environment from nothing. Set up the Wazuh indexer, created 
 <summary>📂 <b>soc-lab/</b> — Attack simulation & detection lab</summary>
 <br>
 
-A lab where I run real attacks — brute force, privilege escalation, malware — in a safe environment. Then I figure out how to detect each one. It's like a practice ground for SOC work. Every attack is documented with what I found and how I found it.
+A lab where I run real attacks — brute force, privilege escalation, malware — in a safe environment. Then I figure out how to detect each one. Every attack is documented with what I found and how I found it.
 
 🔗 **[Open project →](https://github.com/spgtcat/soc-lab)**
 
@@ -131,9 +126,10 @@ $ cat ~/.status
 ```
 
 ```
-currently    : building labs, breaking things, learning every day
-looking for  : SOC Analyst role / blue team opportunities
-open to      : collaboration on security projects
+currently    : first year MBO 4 ICT, building projects to get ahead
+learning     : Google Cybersecurity Certificate
+next up      : more projects, more labs, more hands-on stuff
+open to      : tips, feedback, collaboration
 ```
 
 ---
