@@ -12,9 +12,7 @@
 <img src="https://img.shields.io/badge/→_$_whoami-000000?style=for-the-badge&logo=windowsterminal&logoColor=00FF41" />
 
 ```
-First year ICT student (MBO 4) getting into cybersecurity.
-I don't wait for school to teach me — I build projects to learn by doing.
-This is just the start.
+First year ICT student (MBO 4) in the Netherlands getting into cybersecurity. I actively pursue projects outside of school to expand my knowledge and build practical experience.
 ```
 
 ---
