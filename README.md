@@ -14,8 +14,8 @@
 ```
 First year ICT student (MBO 4) in the Netherlands getting into cybersecurity.
 I actively pursue projects outside of school to expand my knowledge and build practical experience.
+![Image](https://raw.githubusercontent.com/spgtcat/spgtcat/a62e507f89189c383e8b12b63d8e224512e07046/360_F_218453068_WRjhtH9MzO33Cb19K8acZI2VZvXueQ70.jpg)
 ```
-![image alt]([<img src="https://raw.githubusercontent.com/spgtcat/spgtcat/3f46ec7e2ff241a9746b641fc1f28d68f42add2c/computer-cat.gif" width="300">](https://github.com/spgtcat/spgtcat/blob/a62e507f89189c383e8b12b63d8e224512e07046/360_F_218453068_WRjhtH9MzO33Cb19K8acZI2VZvXueQ70.jpg))
 
 ---
 
