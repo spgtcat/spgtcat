@@ -1,62 +1,141 @@
-# Hey, I'm spgtcat 👋
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│    ███████╗██████╗  ██████╗ ████████╗ ██████╗ █████╗ ████████╗   │
+│    ██╔════╝██╔══██╗██╔════╝ ╚══██╔══╝██╔════╝██╔══██╗╚══██╔══╝  │
+│    ███████╗██████╔╝██║  ███╗   ██║   ██║     ███████║   ██║     │
+│    ╚════██║██╔═══╝ ██║   ██║   ██║   ██║     ██╔══██║   ██║     │
+│    ███████║██║     ╚██████╔╝   ██║   ╚██████╗██║  ██║   ██║     │
+│    ╚══════╝╚═╝      ╚═════╝    ╚═╝    ╚═════╝╚═╝  ╚═╝   ╚═╝    │
+│                                                                  │
+│    [ SOC Analyst in Training ]                                   │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
 <a href="https://www.linkedin.com/in/emran-b-40763b3ba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I like breaking and fixing things in cybersecurity. I build lab environments, simulate attacks, and learn how to detect and stop them. Right now I'm working toward becoming a **SOC Tier 1 Analyst**.
+---
+
+```bash
+$ whoami
+```
+> I break things, then figure out how to detect it.  
+> Building labs, simulating attacks, reading logs — that's my day.  
+> Goal: **SOC Tier 1 Analyst**.
 
 ---
 
-## 🎯 What I'm Focused On
+```bash
+$ cat /etc/skills.conf
+```
 
-- Building SIEM systems and learning how to read logs
-- Simulating real attacks to understand how they work
-- Getting better at threat detection and incident response
-- Learning something new every day through hands-on labs
+```
+[siem]
+description  = Building SIEM systems from scratch, setting up log pipelines
+tools        = Wazuh, OpenSearch, Elastic
+project      = https://github.com/spgtcat/wazuh-siem
 
----
+[attack-simulation]
+description  = Running real attacks in safe environments to test detection
+techniques   = Brute Force, Privilege Escalation, Malware Execution
+project      = https://github.com/spgtcat/soc-lab
 
-## 🛠 Skills
+[network-monitoring]
+description  = Watching network traffic, finding the weird stuff
+tools        = Wireshark, tcpdump
+project      = https://github.com/spgtcat/wazuh-siem
 
-| Skill | Project |
-| :--- | :--- |
-| SIEM Setup & Log Analysis | [Wazuh SIEM Lab](https://github.com/spgtcat/wazuh-siem) |
-| Attack Simulation | [SOC Lab - Cyberattacks](https://github.com/spgtcat/soc-lab) |
-| Network Traffic Monitoring | [Wazuh SIEM Lab](https://github.com/spgtcat/wazuh-siem) |
-| Incident Analysis & Write-ups | [SOC Lab - Cyberattacks](https://github.com/spgtcat/soc-lab) |
-| Scripting & Automation | [Wazuh SIEM Lab](https://github.com/spgtcat/wazuh-siem) |
+[incident-response]
+description  = Analyzing what happened, writing it up, learning from it
+project      = https://github.com/spgtcat/soc-lab
 
----
-
-## 🧰 Tools I Use
-
-### SIEM & Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Wazuh-FF4500?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenSearch-005571?&style=for-the-badge&logo=OpenSearch&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Network & Analysis
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
-</div>
+[scripting]
+description  = Automating the boring stuff so I can focus on the fun stuff
+tools        = Bash, Linux
+project      = https://github.com/spgtcat/wazuh-siem
+```
 
 ---
 
-## 📜 Certifications
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-</div>
+```bash
+$ ls ~/toolkit/
+```
+
+<table>
+<tr>
+<td align="center" width="150">
+
+**SIEM**
+
+<img src="https://img.shields.io/badge/-Wazuh-FF4500?&style=flat-square&logo=Wazuh&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-OpenSearch-005571?&style=flat-square&logo=OpenSearch&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=flat-square&logo=Elastic&logoColor=white" />
+
+</td>
+<td align="center" width="150">
+
+**Network**
+
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=flat-square&logo=Wireshark&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=flat-square&logo=Linux&logoColor=black" />
+
+<img src="https://img.shields.io/badge/-Bash-4EAA25?&style=flat-square&logo=GNU-Bash&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📁 Projects
+```bash
+$ cat ~/certs.txt
+```
 
-### [Wazuh SIEM Lab](https://github.com/spgtcat/wazuh-siem)
-A SIEM environment I built from scratch. It covers setting up the indexer, managing log pipelines, and creating dashboards to see what's going on in a network.
+🔒 **CompTIA Security+**  
+🔒 **CDSA** — Certified Defensive Security Analyst
 
-### [SOC Lab - Cyberattacks](https://github.com/spgtcat/soc-lab)
-A lab where I run real attacks (brute force, privilege escalation, malware) in a safe environment and then figure out how to detect them. Good practice for SOC work.
+---
+
+```bash
+$ ls ~/projects/
+```
+
+<details>
+<summary>📂 <b>wazuh-siem/</b> — SIEM environment built from zero</summary>
+<br>
+
+I built a full SIEM environment from nothing. Set up the Wazuh indexer, created log pipelines, and made dashboards so you can actually see what's happening in a network. Everything is documented step by step so anyone can follow along.
+
+🔗 **[Open project →](https://github.com/spgtcat/wazuh-siem)**
+
+</details>
+
+<details>
+<summary>📂 <b>soc-lab/</b> — Attack simulation & detection lab</summary>
+<br>
+
+A lab where I run real attacks — brute force, privilege escalation, malware — in a safe environment. Then I figure out how to detect each one. It's like a practice ground for SOC work. Every attack is documented with what I found and how I found it.
+
+🔗 **[Open project →](https://github.com/spgtcat/soc-lab)**
+
+</details>
+
+---
+
+```bash
+$ cat ~/.status
+```
+
+```
+currently    : building labs, breaking things, learning every day
+looking for  : SOC Analyst role / blue team opportunities
+open to      : collaboration on security projects
+```
+
+---
+
+<sub>Last updated: June 2026 · Built with curiosity and too much coffee ☕</sub>
