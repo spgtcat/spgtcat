@@ -14,7 +14,7 @@
 ```
 First year ICT student (MBO 4) in the Netherlands getting into cybersecurity.
 I actively pursue projects outside of school to expand my knowledge and build practical experience.
-```
+```text
                                                                                                                       
                                                                                                                       
                                                                                                                       
@@ -69,6 +69,7 @@ I actively pursue projects outside of school to expand my knowledge and build pr
                                  :  : ==-  :                                                                          
                                         --:                                                                           
                                           :                                                                           
+                                              ```                                                                        
                                                                                                                       
                                                                                                                       
                                                                                                                       
@@ -81,7 +82,7 @@ I actively pursue projects outside of school to expand my knowledge and build pr
                                                                                                                       
                                                                                                                       
                                                                                                                       
-                                                                                                                      
+                                                                                                       
 ---
 
 <img src="https://img.shields.io/badge/→_$_ls_~/toolkit/-000000?style=for-the-badge&logo=windowsterminal&logoColor=00FF41" />
