@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+spgtcat+%F0%9F%91%8B;MBO+4+ICT+Student;Cybersecurity+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Emran+%F0%9F%91%8B;MBO+4+ICT+Student;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 First year ICT student (MBO 4) in the Netherlands getting into cybersecurity.
 I actively pursue projects outside of school to expand my knowledge and build practical experience.
 ```
-> **Note:** My name is intentionally not disclosed for operational security reasons.                                                                                                                                                                                                                 
+                                                                                                                                                                                                            
 ---
 
 <img src="https://img.shields.io/badge/→_$_ls_~/toolkit/-000000?style=for-the-badge&logo=windowsterminal&logoColor=00FF41" />
