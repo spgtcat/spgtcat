@@ -7,7 +7,13 @@
 <a href="https://github.com/spgtcat"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
                                                                                                                       
-                                        
+<pre>
+::
+:-:                  ::: :
+--:                --::::::
+[                                                                 
+                                                                 
+                                                                 
                    ::                                            
                    -:                   ::: :                    
                   --:                 --::::::                   
@@ -33,8 +39,15 @@
                        ::--- --:                                 
                       -:::                                       
                   :--==:-                                        
-                      ::                                                                                                                                             
-                                                                                                                      
+                      ::                                         
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 ]
+</pre>                                                                                      
 ---
 
 <img src="https://img.shields.io/badge/→_$_whoami-000000?style=for-the-badge&logo=windowsterminal&logoColor=00FF41" />
