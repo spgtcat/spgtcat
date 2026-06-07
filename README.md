@@ -1,23 +1,33 @@
-# Hello, I'm spgtcat
+# Hey, I'm spgtcat 👋
 
-<a href="https://linkedin.com/in/jouwprofiel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/emran-b-40763b3ba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a passionate cybersecurity enthusiast with a focus on building robust defensive environments and analyzing security events.
+I like breaking and fixing things in cybersecurity. I build lab environments, simulate attacks, and learn how to detect and stop them. Right now I'm working toward becoming a **SOC Tier 1 Analyst**.
 
-## Objective
-To leverage my hands-on experience in building SIEM architectures and simulating cyberattacks to contribute as a **SOC Tier 1 Analyst**. I am dedicated to threat detection, incident analysis, and improving security posture through continuous learning and lab-based experimentation.
+---
 
-## Skills
+## 🎯 What I'm Focused On
 
-| Skill | Associated Project |
+- Building SIEM systems and learning how to read logs
+- Simulating real attacks to understand how they work
+- Getting better at threat detection and incident response
+- Learning something new every day through hands-on labs
+
+---
+
+## 🛠 Skills
+
+| Skill | Project |
 | :--- | :--- |
-| SIEM Implementation and Log Analysis | [Wazuh SIEM Lab](https://github.com/spgtcat/wazuh-siem) |
-| Threat Simulation & Attack Modeling | [SOC Lab - Cyberattacks](https://github.com/spgtcat/soc-lab) |
+| SIEM Setup & Log Analysis | [Wazuh SIEM Lab](https://github.com/spgtcat/wazuh-siem) |
+| Attack Simulation | [SOC Lab - Cyberattacks](https://github.com/spgtcat/soc-lab) |
 | Network Traffic Monitoring | [Wazuh SIEM Lab](https://github.com/spgtcat/wazuh-siem) |
-| Incident Analysis & Documentation | [SOC Lab - Cyberattacks](https://github.com/spgtcat/soc-lab) |
-| Scripting and Automation | [Wazuh SIEM Lab](https://github.com/spgtcat/wazuh-siem) |
+| Incident Analysis & Write-ups | [SOC Lab - Cyberattacks](https://github.com/spgtcat/soc-lab) |
+| Scripting & Automation | [Wazuh SIEM Lab](https://github.com/spgtcat/wazuh-siem) |
 
-## Tools
+---
+
+## 🧰 Tools I Use
 
 ### SIEM & Endpoint
 <div>
@@ -33,12 +43,20 @@ To leverage my hands-on experience in building SIEM architectures and simulating
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
 </div>
 
-## Certifications
+---
+
+## 📜 Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- **[Wazuh SIEM Lab](https://github.com/spgtcat/wazuh-siem):** A fully functional SIEM environment built from scratch, focusing on indexer security, log pipeline management, and dashboard visualization.
-- **[SOC Lab - Cyberattacks](https://github.com/spgtcat/soc-lab):** A simulated SOC environment designed to execute and analyze cyberattacks (Brute Force, Privilege Escalation, and Malware execution) to test detection capabilities.
+---
+
+## 📁 Projects
+
+### [Wazuh SIEM Lab](https://github.com/spgtcat/wazuh-siem)
+A SIEM environment I built from scratch. It covers setting up the indexer, managing log pipelines, and creating dashboards to see what's going on in a network.
+
+### [SOC Lab - Cyberattacks](https://github.com/spgtcat/soc-lab)
+A lab where I run real attacks (brute force, privilege escalation, malware) in a safe environment and then figure out how to detect them. Good practice for SOC work.
