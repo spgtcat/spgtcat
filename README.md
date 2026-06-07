@@ -56,10 +56,8 @@ This is just the start.
 
 | Skill | What I Do | Project |
 |:---|:---|:---:|
-| **SIEM Setup** | Building SIEM systems from scratch, setting up log pipelines | [→ repo](https://github.com/spgtcat/wazuh-siem) |
-| **Attack Simulation** | Running real attacks in safe environments to test detection | [→ repo](https://github.com/spgtcat/soc-lab) |
-| **Network Monitoring** | Watching network traffic, finding the weird stuff | [→ repo](https://github.com/spgtcat/wazuh-siem) |
-| **Scripting** | Automating the boring stuff so I can focus on the fun stuff | [→ repo](https://github.com/spgtcat/wazuh-siem) |
+| **SIEM Setup & Log Analysis** | Built a full SIEM from scratch, set up log pipelines and dashboards | [→ repo](https://github.com/spgtcat/siem-homelab-temp) |
+| **Attack Simulation & Detection** | Ran real attacks (brute force, priv esc, web shell) and detected them | [→ repo](https://github.com/spgtcat/siem-homelab-temp) |
 
 ---
 
@@ -67,34 +65,20 @@ This is just the start.
 
 <br>
 
-<details>
+<details open>
 <summary>
-<img src="https://img.shields.io/badge/📂_wazuh--siem-1a1a2e?style=for-the-badge" /> <i>SIEM environment built from zero</i>
+<img src="https://img.shields.io/badge/📂_siem--homelab-1a1a2e?style=for-the-badge" /> <i>SIEM + Attack Simulation Lab</i>
 </summary>
 
 <br>
 
-> My first real project. I built a full SIEM environment from nothing.
-> Set up the Wazuh indexer, created log pipelines, and made dashboards
-> so you can actually see what's happening in a network.
-> Everything is documented step by step.
+> My first real project. Built a full SIEM environment on an old laptop with Proxmox.
+> Three machines: a SIEM (Wazuh), a victim (Debian), and an attacker (Kali).
+> I simulated a full attack chain — brute force, account compromise, web shell —
+> and detected every phase through log analysis, correlation rules, and file integrity monitoring.
+> Everything documented step by step.
 
-<a href="https://github.com/spgtcat/wazuh-siem"><img src="https://img.shields.io/badge/Open_Project_→-FF4500?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</details>
-
-<details>
-<summary>
-<img src="https://img.shields.io/badge/📂_soc--lab-1a1a2e?style=for-the-badge" /> <i>Attack simulation & detection lab</i>
-</summary>
-
-<br>
-
-> A lab where I run real attacks — brute force, privilege escalation, malware —
-> in a safe environment. Then I figure out how to detect each one.
-> Every attack is documented with what I found and how I found it.
-
-<a href="https://github.com/spgtcat/soc-lab"><img src="https://img.shields.io/badge/Open_Project_→-FF4500?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/spgtcat/siem-homelab-temp"><img src="https://img.shields.io/badge/Open_Project_→-FF4500?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </details>
 
