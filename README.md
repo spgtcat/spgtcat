@@ -106,5 +106,5 @@ open to      : tips, feedback, collaboration
 </p>
 
 <p align="center">
-<sub>Last updated: June 2026 · Built with curiosity and too much coffee ☕</sub>
+<sub>Last updated: June 2026</sub>
 </p>
