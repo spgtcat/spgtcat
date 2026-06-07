@@ -12,7 +12,8 @@
 <img src="https://img.shields.io/badge/→_$_whoami-000000?style=for-the-badge&logo=windowsterminal&logoColor=00FF41" />
 
 ```
-First year ICT student (MBO 4) in the Netherlands getting into cybersecurity. I actively pursue projects outside of school to expand my knowledge and build practical experience.
+First year ICT student (MBO 4) in the Netherlands getting into cybersecurity.
+ I actively pursue projects outside of school to expand my knowledge and build practical experience.
 ```
 
 ---
