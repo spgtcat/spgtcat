@@ -50,7 +50,9 @@ I actively pursue projects outside of school to expand my knowledge and build pr
 ---
 
 <img src="https://img.shields.io/badge/→_$_cat_~/skills.conf-000000?style=for-the-badge&logo=windowsterminal&logoColor=00FF41" />
+
 <br><br>
+
 | Skill | What I Do | Project |
 |:---|:---|:---:|
 | **SIEM Setup & Log Analysis** | Built a full SIEM from scratch, set up log pipelines and dashboards | [→ repo](https://github.com/spgtcat/siem-homelab-temp) |
