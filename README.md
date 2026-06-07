@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Emran+%F0%9F%91%8B;MBO+4+ICT+Student;Cybersecurity+Enthusiast;Building+Labs+%26+Breaking+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Emran+%F0%9F%91%8B;MBO+4+ICT+Student;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -54,12 +54,12 @@ This is just the start.
 
 <br><br>
 
-| | Skill | What I Do | Project |
-|:---:|:---|:---|:---:|
-| 🔵 | **SIEM Setup** | Building SIEM systems from scratch, setting up log pipelines | [→ repo](https://github.com/spgtcat/wazuh-siem) |
-| 🔴 | **Attack Simulation** | Running real attacks in safe environments to test detection | [→ repo](https://github.com/spgtcat/soc-lab) |
-| 🟢 | **Network Monitoring** | Watching network traffic, finding the weird stuff | [→ repo](https://github.com/spgtcat/wazuh-siem) |
-| 🟡 | **Scripting** | Automating the boring stuff so I can focus on the fun stuff | [→ repo](https://github.com/spgtcat/wazuh-siem) |
+| Skill | What I Do | Project |
+|:---|:---|:---:|
+| **SIEM Setup** | Building SIEM systems from scratch, setting up log pipelines | [→ repo](https://github.com/spgtcat/wazuh-siem) |
+| **Attack Simulation** | Running real attacks in safe environments to test detection | [→ repo](https://github.com/spgtcat/soc-lab) |
+| **Network Monitoring** | Watching network traffic, finding the weird stuff | [→ repo](https://github.com/spgtcat/wazuh-siem) |
+| **Scripting** | Automating the boring stuff so I can focus on the fun stuff | [→ repo](https://github.com/spgtcat/wazuh-siem) |
 
 ---
 
