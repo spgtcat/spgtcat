@@ -20,9 +20,8 @@
 ```bash
 $ whoami
 ```
-> First year ICT student (MBO 4) getting into cybersecurity.  
-> I don't wait for school to teach me — I build projects to learn by doing.  
-> This is just the start.
+> First year ICT student (MBO 4) in the Netherlands getting into cybersecurity.  
+> I don't wait for school to teach me — I learn by building projects, solving problems, and gaining hands-on cybersecurity experience.
 
 ---
 
