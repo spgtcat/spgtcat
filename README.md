@@ -1,9 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Emran+%F0%9F%91%8B;MBO+4+ICT+Student;Cybersecurity+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+spgtcat+%F0%9F%91%8B;MBO+4+ICT+Student;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/emran-b-40763b3ba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/spgtcat"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
                                                                                                                                                                                               
