@@ -5,16 +5,16 @@
 <p align="center">
 <a href="https://github.com/spgtcat"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-                                                                                                                                                                                              
+
 ---
 
 <img src="https://img.shields.io/badge/→_$_whoami-000000?style=for-the-badge&logo=windowsterminal&logoColor=00FF41" />
 
 ```
-First year ICT student (MBO 4) in the Netherlands getting into cybersecurity.
-I actively pursue projects outside of school to expand my knowledge and build practical experience.
+First year ICT student (MBO 4) in the Netherlands.
+Into cybersecurity. I work on projects outside of school to learn more and get hands on experience.
 ```
-                                                                                                                                                                                                            
+
 ---
 
 <img src="https://img.shields.io/badge/→_$_ls_~/toolkit/-000000?style=for-the-badge&logo=windowsterminal&logoColor=00FF41" />
@@ -36,7 +36,7 @@ I actively pursue projects outside of school to expand my knowledge and build pr
 <br>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <br><br>
-<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Linux-FCA6?&style=for-the-badge&logo=Linux&logoColor=black" />
 <br><br>
 <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
 <br><br>
@@ -54,8 +54,8 @@ I actively pursue projects outside of school to expand my knowledge and build pr
 
 | Skill | What I Do | Project |
 |:---|:---|:---:|
-| **SIEM Setup & Log Analysis** | Built a full SIEM from scratch, set up log pipelines and dashboards | [→ repo](https://github.com/spgtcat/siem-homelab-temp) |
-| **Attack Simulation & Detection** | Ran real attacks (brute force, priv esc, web shell) and detected them | [→ repo](https://github.com/spgtcat/siem-homelab-temp) |
+| **SIEM Setup & Log Analysis** | Built a full SIEM from scratch, set up log pipelines and dashboards | [→ repo](https://github.com/spgtcat/siem-homelab) |
+| **Attack Simulation & Detection** | Ran real attacks (brute force, priv esc, web shell) and detected them | [→ repo](https://github.com/spgtcat/siem-homelab) |
 
 ---
 
@@ -70,13 +70,13 @@ I actively pursue projects outside of school to expand my knowledge and build pr
 
 <br>
 
-> My first real project. Built a full SIEM environment on an old laptop with Proxmox.
+> My first real project. Set up a full SIEM on an old laptop using Proxmox.
 > Three machines: a SIEM (Wazuh), a victim (Debian), and an attacker (Kali).
-> I simulated a full attack chain — brute force, account compromise, web shell —
-> and detected every phase through log analysis, correlation rules, and file integrity monitoring.
+> I simulated an attack chain (brute force, account compromise, web shell)
+> and caught every phase through log analysis, correlation rules, and file integrity monitoring.
 > Everything documented step by step.
 
-<a href="https://github.com/spgtcat/siem-homelab-temp"><img src="https://img.shields.io/badge/Open_Project_→-FF4500?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/spgtcat/siem-homelab"><img src="https://img.shields.io/badge/Open_Project_→-FF4500?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </details>
 
@@ -95,7 +95,7 @@ I actively pursue projects outside of school to expand my knowledge and build pr
 ```
 currently    : first year MBO 4 ICT, building projects to get ahead
 learning     : Google Cybersecurity Certificate
-next up      : more projects, more labs, more hands-on stuff
+next up      : more projects, more labs, more hands on stuff
 open to      : tips, feedback, collaboration
 ```
 
